@@ -7,4 +7,17 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'routing2-app';
+  vistasNintendo=0;
+  vistasPlayStation=0;
+  vistasXbox=0;
+
+  aumentarN(): void{
+    this.vistasNintendo++;
+  }
+  aumentarP(): void{
+    this.vistasPlayStation++;
+  }
+  aumentarX(): void{
+    this.vistasXbox++;
+  }
 }

@@ -1,0 +1,49 @@
+#titulo{
+  color: #FFFFFF;
+  background-color:#9B59B6;
+  margin-bottom: 0px;
+}
+#titulo h2{
+  padding-bottom: 30px;
+}
+
+#panelNintendo{
+  background-color: #fe0016;
+  color: #FFFFFF;
+  margin: 20px;
+  width: 450px;
+}
+
+#panelPlayStation{
+  background-color: #006FCD;
+  color: #FFFFFF;
+  margin: 20px;
+  width: 450px;
+}
+
+#panelXbox{
+  background-color: #119910;
+  color: #FFFFFF;
+  margin: 20px;
+  width: 450px;
+}
+h2{
+  padding-top: 24px;
+  color: #FFFFFF;
+
+}
+h3{
+  color: #FFFFFF !important;
+  font-size: 40px;
+}
+mat-grid-list{
+  margin: 0px;
+}
+a{
+  background-color: #F4D03F;
+}
+p{
+  display: inline;
+  font-size: 20px;
+  padding-left: 260px;
+}
